@@ -1,2 +1,2 @@
-# unicomcq2cf--IP
-Optimized IP for Cloudflare to Chongqing Unicom Residential Broadband
+# Cloudflare-ip
+Optimized IP for Cloudflare
